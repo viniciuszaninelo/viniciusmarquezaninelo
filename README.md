@@ -16,7 +16,7 @@ My name is Vinícius Zaninelo and I am a student of Software Engineering and als
 </p>
  
  ![Vinícius Zaninelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmarquezaninelo&show_icons=true&theme=radical) 
- [![Vinícius Zaninelo](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarquezaninelo&layout=compact)](https://github.com/viniciusmarquezaninelo/github-readme-stats)<br />
+ [![Vinícius Zaninelo](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarquezaninelo&layout=compact)](https://github.com/viniciusmarquezaninelo/github-readme-stats)
  
  ### How to reach me:? <br />
 [![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicousmarqueszaninelo@gmail.com?subject=Hello)
