@@ -24,6 +24,6 @@ My name is Vinícius Zaninelo and I am a student of Software Engineering and als
 
 <div>
  
-  ![Snake animation](https://github.com/viniciusmarqueszaninelo/viniciusmarqueszaninelo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/viniciusmarquezaninelo/viniciusmarquezaninelo/blob/output/github-contribution-grid-snake.svg)
 
 <div />
