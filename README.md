@@ -15,6 +15,7 @@ My name is Vinícius Zaninelo and I am a student of Software Engineering and als
   <img align="center" alt="Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </div>
 </br>
+
  ![Vinícius Zaninelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmarquezaninelo&show_icons=true&theme=radical) <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarquezaninelo&layout=compact&langs_count=8&theme=radical"/>
  
  
