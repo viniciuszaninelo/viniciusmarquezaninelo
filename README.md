@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Vinícius Zaninelo and I am a student of Software Engineering and also Fullstack Developer
+My name is Vinícius Zaninelo and I am a student of Analysis and systems development and also Fullstack Developer
 
 <ul> 
 <li> I've always been passionate about technology </br> </li> 
