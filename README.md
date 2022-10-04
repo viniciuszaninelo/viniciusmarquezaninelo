@@ -26,7 +26,7 @@ My name is Vinícius Zaninelo and I am a student of Analysis and systems develop
 </br>
 
   ![Vinícius Zaninelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmarquezaninelo&show_icons=true&theme=radical)
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarquezaninelo&layout=compact&langs_count=8&theme=radical"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarquezaninelo&layout=compact&langs_count=8&theme=radical"/>
  
  ### How to reach me:? <br />
 [![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicousmarqueszaninelo@gmail.com?subject=Hello)
